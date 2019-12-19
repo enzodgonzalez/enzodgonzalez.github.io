@@ -45,10 +45,6 @@ social:
     url: http://twitter.com/jekyllrb
   - title: envelope
     url: mailto:enzodanielrende@gmail.com
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Build settings
 markdown: kramdown

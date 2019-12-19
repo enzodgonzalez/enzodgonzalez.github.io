@@ -109,7 +109,7 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-.img-responsive {
+#profile-img {
     border-radius: 50%;
 }
 
